@@ -1,0 +1,16 @@
+body{
+    background-color: whitesmoke;
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: rgb(36, 35, 35);
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+canvas {
+    border-radius: 25px;
+}
